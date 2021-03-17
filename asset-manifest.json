@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dnz-react/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/dnz-react/static/js/main.2ea90484.chunk.js",
+    "main.js.map": "/dnz-react/static/js/main.2ea90484.chunk.js.map",
+    "runtime-main.js": "/dnz-react/static/js/runtime-main.92d1ec54.js",
+    "runtime-main.js.map": "/dnz-react/static/js/runtime-main.92d1ec54.js.map",
+    "static/js/2.ccffb0e9.chunk.js": "/dnz-react/static/js/2.ccffb0e9.chunk.js",
+    "static/js/2.ccffb0e9.chunk.js.map": "/dnz-react/static/js/2.ccffb0e9.chunk.js.map",
+    "static/js/3.0da439d1.chunk.js": "/dnz-react/static/js/3.0da439d1.chunk.js",
+    "static/js/3.0da439d1.chunk.js.map": "/dnz-react/static/js/3.0da439d1.chunk.js.map",
+    "index.html": "/dnz-react/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/dnz-react/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ccffb0e9.chunk.js.LICENSE.txt": "/dnz-react/static/js/2.ccffb0e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92d1ec54.js",
+    "static/js/2.ccffb0e9.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2ea90484.chunk.js"
+  ]
+}
